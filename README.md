@@ -14,10 +14,6 @@ Memory and context only get you so far. Today's foundation and embedding models 
 
 Most of my public work here is scrappy tests. There is much left to do.
 
-- [mite-bench](https://github.com/jonathan-politzki/mite-bench): benchmarking embeddings on interaction tasks that MTEB misses
-- [mixed-adapter](https://github.com/jonathan-politzki/mixed-adapter): extending DRIFT-adapter work
-- [matching-research](https://github.com/jean-technologies/matching-research): fundamental research on matching people
-
 ## Elsewhere
 
 Writing, contact, and everything else: [jonathanpolitzki.com](https://jonathanpolitzki.com)
