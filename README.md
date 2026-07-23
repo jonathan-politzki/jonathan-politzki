@@ -1,6 +1,6 @@
 # Jonathan Politzki
 
-I'm a self-taught engineer working on computers that understand humans and the world around them. I run [Jean Technologies](https://github.com/jean-technologies), and most of my work lives there.
+I'm a self-taught engineer working on computers that understand humans. I run [Jean Technologies](https://github.com/jean-technologies), and most of my work lives there.
 
 ## Background
 
