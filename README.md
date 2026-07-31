@@ -1,16 +1,16 @@
 # Jonathan Politzki
 
-I'm a self-taught engineer working on computers that understand humans. I run [Jean Technologies](https://github.com/jean-technologies), and most of my work lives there.
+Working on computers that understand humans @ [Jean Technologies](https://github.com/jean-technologies).
 
 ## Background
 
-I got started with AI in university, building algorithmic trading systems and founding the University of Illinois' first quant organization. Around the same time I worked on Nephra, where we trained deep learning models on top of ECG waveforms to classify hyperkalemia (elevated potassium) for patients with end-stage renal disease.
+My interests in AI started in university, building algorithmic trading systems and founding the University of Illinois' first quant organization. Around the same time I started a biotech ML startup called Nephra, where we trained deep learning models on top of ECG waveforms to classify hyperkalemia (elevated potassium) for patients with end-stage renal disease.
 
-Since 2024 I've gone much deeper into programming. My early approaches were primitive, mostly context injection, and that work grew into what is now called AI memory and context engineering. The most visible result is [jean-memory](https://github.com/jean-technologies/jean-memory), an open-source AI memory layer. Initially a server-hosted product for consumers across applications (and when Claude didn't have memory) and later became an SDK that developers could use for plugging memory into their enterprise applications. For developers who want to learn more about the foundations of AI Memory, I wrote the first [comprehensive review of the space](https://www.jeanmemory.com/ai-memory-landscape-review.pdf) in 2025.
+Since 2024 I've gone deeper into programming. Early work grew into what is now called AI memory. See [jean-memory](https://github.com/jean-technologies/jean-memory), an open-source AI memory layer. I believe we were the first server-hosted memory in the world and later turned the product into an SDK that developers could use for plugging memory into their enterprise applications. For developers who want to learn more about the foundations of AI Memory, I wrote the first [comprehensive review of the space](https://www.jeanmemory.com/ai-memory-landscape-review.pdf) in 2025.
 
-## Now
+## Current Work
 
-Memory and context only get you so far. Today's foundation and embedding models still have real limitations in how they represent people, so I've been digging into the models themselves: representation learning, contrastive methods, and embeddings built for understanding humans rather than retrieving documents. For instance, we can envision agentic matching applications that go beyond surface-level swipe data and can match individuals to the perfect job or spouse in the world for them based on deep representations of their values and aspirations in life.
+Memory and context are step 1. Foundation models still can not properly represent humans. I feel the applied AI part of this problem has mostly been solved and I am now doing a bit more fundamental work to solve the more fundamental problems at the core of how we can build these systems.
 
 Most of my public work here is scrappy tests. There is much left to do.
 
