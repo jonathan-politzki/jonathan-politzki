@@ -4,7 +4,7 @@ Working on computers that understand humans @ [Jean Technologies](https://github
 
 ## Background
 
-Trained Deep Learning models for biotech / finance in college. Now I am interested in teaching computers to understand humans and build foundation models of human behavior. Have done prior work in AI memory, context engineering, contrastive learning, etc. as well.
+Trained Deep Learning models for biotech / finance in college. Now I am interested in teaching computers to understand humans and training foundation models of human behavior. Have done prior work in AI memory, context engineering, contrastive learning, etc. as well.
 
 ## Elsewhere
 
