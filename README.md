@@ -4,7 +4,7 @@ Teaching computers to understand humans @ [Jean Technologies](https://github.com
 
 ## Background
 
-Right now, we are training foundation models of human behavior. Prior work in AI memory, context engineering, contrastive learning, etc. as well.
+Right now, we are training foundation models of human behavior. Prior work in deep learning, AI memory, context engineering, contrastive learning, etc.
 
 ## Elsewhere
 
